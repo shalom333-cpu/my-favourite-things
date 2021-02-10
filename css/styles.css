@@ -18,3 +18,9 @@ ol {
 body {
   background-color: honeydew;
 }
+strong {
+  font-style: italic;
+}
+em {
+  font-weight: bold;
+}
