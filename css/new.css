@@ -35,12 +35,12 @@ body{
 }
 .side {
   flex: 30%; 
-  background-color: #f1f1f1; 
+  background-color: #ebe6e6; 
   padding: 20px; 
 }
 .main {
   flex: 70%;
-  background-color: white;
+  background-color: gray;
   padding: 20px;
 }
 @media screen and (max-width: 700px) {
